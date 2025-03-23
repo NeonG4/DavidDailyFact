@@ -1,0 +1,13 @@
+{
+    "facts": {
+        "day0": {
+            "fact": "",
+            "color1": "",
+            "color2": "",
+            "peopleknow": "",
+            "peopledontknow": "",
+            "source": "",
+            "ipsanswered": []
+        }
+    }
+}
